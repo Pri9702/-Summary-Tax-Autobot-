@@ -126,6 +126,5 @@ Inspiration
 
 As a Tax Practitioner, repetitive SARS correspondence and document requests take up valuable time.
 This project reimagines that process through automation and AI, building a future where tax compliance is efficient, accurate, and stress-free.
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-view rawBuilding AI README template hosted with ❤ by GitHub
+
+
