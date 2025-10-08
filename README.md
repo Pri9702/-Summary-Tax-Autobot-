@@ -6,7 +6,7 @@ An AI-powered agent that communicates with clients regarding basic tax matters, 
 
 Tax AI Autobot is an intelligent assistant designed to simplify and automate correspondence between Tax Practitioners, Clients, and SARS (South African Revenue Service).
 
-Built with the vision of transforming tax administration in South Africa, this AI-driven tool helps manage SARS-related communication — from registration requests to document submissions and payment arrangements — with speed, accuracy, and compliance.
+Built with the vision of transforming tax administration in South Africa, this AI-driven tool helps manage SARS-related communication — from registration requests to document submissions and payment arrangements — with speed, accuracy, and compliance.Building AI course project
 
 
 ## Background
